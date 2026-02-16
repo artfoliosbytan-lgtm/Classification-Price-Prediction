@@ -35,3 +35,8 @@ Predict property prices using regression techniques.
 
 ## Conclusion
 The Random Forest Regressor model achieved an R² score of 0.81, indicating that the model explains 81% of the variance in property prices.
+
+## Author
+
+Tanishq Panchal  
+Aspiring Data Scientist | B.Tech Computer Science | 2027 Graduate
