@@ -1,13 +1,37 @@
-Real Estate Price Prediction Problem
-Predict property prices using regression techniques.
-Model used: Random Forest Regressor
-Train/Test Split (80/20)
-Results:
-R² Score: 0.81
+# Real Estate Price Prediction
 
-Steps Performed:
-Data loading
-Feature selection
-Train-test split
-Model training
-Model evaluation
+## Problem Statement
+Predict property prices using regression techniques.
+
+---
+
+## Model Used
+- Random Forest Regressor
+- Train/Test Split (80/20)
+
+---
+
+## Results
+- R² Score: 0.81
+
+---
+
+## Steps Performed
+1. Data loading  
+2. Feature selection  
+3. Train-test split  
+4. Model training  
+5. Model evaluation  
+
+---
+
+## Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+
+---
+
+## Conclusion
+The Random Forest Regressor model achieved an R² score of 0.81, indicating that the model explains 81% of the variance in property prices.
